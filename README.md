@@ -20,4 +20,4 @@ Paws is free. If it saves your eyes and your back, you can [buy me a momo](https
 
 ## Author
 
-Made by Mahesh Upreti (maheshupreti) - [maheshupreti.com.np](https://maheshupreti.com.np) - [github.com/mahupreti](https://github.com/mahupreti)
+Made by Yogesh Upreti (professionally Mahesh Upreti) - [maheshupreti.com.np](https://maheshupreti.com.np) - [github.com/mahupreti](https://github.com/mahupreti)
