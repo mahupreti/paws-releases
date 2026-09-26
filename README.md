@@ -14,6 +14,10 @@ Download the latest version from the [Releases](https://github.com/mahupreti/paw
   The app is unsigned, so SmartScreen will warn: click More info, then Run anyway.
 - Linux: Paws-x.y.z.AppImage (auto-updates). Debian/Ubuntu: sudo dpkg -i paws_x.y.z_amd64.deb
 
+## Support
+
+Paws is free. If it saves your eyes and your back, you can [buy me a momo](https://buymemomo.com/yogeshupreti) 🥟
+
 ## Author
 
 Made by Mahesh Upreti (maheshupreti) - [maheshupreti.com.np](https://maheshupreti.com.np) - [github.com/mahupreti](https://github.com/mahupreti)
